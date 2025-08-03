@@ -1,7 +1,6 @@
 ## Hi, I'm Kezia 
 
 🖱️Engineering student at UBC <br/>
-🖌️Designing Kezia's Portfolio on Figma <br/>
 💻I build themed desktop apps to cure my boredom<br/>
 
 
