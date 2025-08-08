@@ -1,7 +1,7 @@
 ## Hi, I'm Kezia 
 
 🖱️Engineering student at UBC <br/>
-💻I build themed desktop apps to cure my boredom<br/>
+💻tinkering with machine learning models<br/>
 
 
 # 💻 Tech Stack:
